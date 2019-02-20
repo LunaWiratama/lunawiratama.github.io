@@ -1,0 +1,15 @@
+body{align-items: center;
+	text-align: center;
+	font-family: 'courier new';
+	color: white;}
+th{color:black;}
+.bg{background-color: black; width: 50px}
+.bg2{background-color: black; color: white}
+.kiri{text-align: left;}
+.tengah{align-items: center;align-content: center;}
+.pth{color: white}
+.bdr{border-color: white; border-style: dotted; background-color: black}
+.coret{text-decoration: line-through}
+.brdr{border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 stretch;
