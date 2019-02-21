@@ -10,6 +10,4 @@ th{color:black;}
 .pth{color: white}
 .bdr{border-color: white; border-style: dotted; background-color: black}
 .coret{text-decoration: line-through}
-.brdr{border: 10px solid transparent;
-  padding: 15px;
-  border-image: url(border.png) 30 stretch;
+.brdr{border: 10px solid transparent; padding: 15px; border-image: url(border.png) 30 stretch;}
