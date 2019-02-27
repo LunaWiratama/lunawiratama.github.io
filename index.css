@@ -5,6 +5,7 @@ body{align-items: center;
 th{color:black;}
 .bg{background-color: black; width: 50px}
 .bg2{background-color: black; color: white}
+.bg3{background-color: white; color: black}
 .kiri{text-align: left;}
 .tengah{align-items: center;align-content: center;}
 .pth{color: white}
@@ -12,4 +13,7 @@ th{color:black;}
 .coret{text-decoration: line-through}
 .brdr{border: 10px solid transparent; padding: 15px; border-image: url(border.png) 30 stretch;}
 .kotak{background-color: grey}
-.fllw{background-color: blue}
+.fllw{background-color: blue; color: white; font-family: 'calibri'}
+.cal{font-family: 'calibri'}
+.fam{background-color: black; color: white; font-family: 'calibri'; width: 100px;}
+.kiri2{align-content: left; align-items; align-self: left; alignment-baseline: left}
